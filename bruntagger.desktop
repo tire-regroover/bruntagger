@@ -1,0 +1,9 @@
+[Desktop Entry]
+X-SuSE-translate=true
+Name=bruntagger
+GenericName=mp3 file id3 tag editor
+Icon=/usr/share/pixmaps/bruntagger.png
+Type=Application
+Categories=Office;Viewer;
+Exec=bruntagger
+Terminal=false
